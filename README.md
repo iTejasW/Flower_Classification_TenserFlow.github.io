@@ -38,4 +38,8 @@ petal length
 petal width
 
 
+
 Here we Used #DNNClassifier, the DNN seems to be the best choice. This is because we may not be able to find a linear coorespondence in our data.
+
+
+All the steps are explain the ipynb file itself !!
